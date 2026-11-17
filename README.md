@@ -1,4 +1,35 @@
-## Hi there 👋
+
+# Hi there, I'm Sreelakshmi S. 👋
+
+### MSc Bioinformatics | Aspiring Bioinformatics Professional
+
+I'm interested in applying computational approaches to biological research, particularly in genomics, molecular biology, virology and drug discovery.
+
+### 🔬 Areas of Interest
+- Bioinformatics and Computational Biology
+- Sequence Analysis
+- Molecular Docking and Drug Discovery
+- Molecular Dynamics Simulation
+- Genomics and Transcriptomics
+
+### 💻 Technical Skills
+- **Programming:** Python
+- **Bioinformatics:** Biopython, FASTA analysis, sequence alignment
+- **Molecular Modelling:** AutoDock Vina, PyMOL, GROMACS
+- **Tools:** BLAST, Git, GitHub
+
+### 📂 Featured Project
+
+**Python Bioinformatics Toolkit**
+
+A collection of Python scripts for DNA, RNA and protein sequence analysis.
+
+[View Project](https://github.com/Sreelakshmipp-jpg/Python-Bioinformatics-Toolkit)
+
+### 📫 Connect with Me
+- GitHub: [Sreelakshmipp-jpg](https://github.com/Sreelakshmipp-jpg)
+- Email: sreelakshmispp26@gmail.com
+
 
 <!--
 **Sreelakshmipp-jpg/Sreelakshmipp-jpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
