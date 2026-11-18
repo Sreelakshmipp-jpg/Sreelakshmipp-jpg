@@ -13,7 +13,7 @@ I'm interested in applying computational approaches to biological research, part
 - Genomics and Transcriptomics
 
 ### 💻 Technical Skills
-- **Programming:** Python
+- **Programming:** Python,R
 - **Bioinformatics:** Biopython, FASTA analysis, sequence alignment
 - **Molecular Modelling:** AutoDock Vina, PyMOL, GROMACS
 - **Tools:** BLAST, Git, GitHub
