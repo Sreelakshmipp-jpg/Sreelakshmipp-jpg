@@ -26,6 +26,19 @@ A collection of Python scripts for DNA, RNA and protein sequence analysis.
 
 [View Project](https://github.com/Sreelakshmipp-jpg/Python-Bioinformatics-Toolkit)
 
+### 🧬 Pancreatic Cancer Transcriptomics
+
+Differential gene expression and functional enrichment analysis of pancreatic cancer using GEO dataset GSE15471.
+
+**Key analyses:**
+- Differential gene expression analysis using limma
+- PCA and quality control
+- GO enrichment analysis
+- Candidate gene identification
+- Heatmap and volcano plot visualization
+
+[View Project](https://github.com/Sreelakshmipp-jpg/Pancreatic_Cancer_Transcriptomics)
+
 ### 📫 Connect with Me
 - GitHub: [Sreelakshmipp-jpg](https://github.com/Sreelakshmipp-jpg)
 - Email: sreelakshmispp26@gmail.com
